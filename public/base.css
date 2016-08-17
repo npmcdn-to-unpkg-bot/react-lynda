@@ -1,0 +1,13 @@
+
+.note {
+    position: relative;
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+}
+
+span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
